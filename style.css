@@ -158,10 +158,9 @@
 }
 
 .pic {
-  display:inline-block;
-  position: static;
-  top: 25px;
-  left: 30px;
+  absolute: static;
+  top: 50%;
+  left: 20%;
 }
 
 .graph2 {
