@@ -158,6 +158,7 @@
 }
 
 .pic {
+  display:inline-block;
   position: static;
   top: 25px;
   left: 30px;
