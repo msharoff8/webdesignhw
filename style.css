@@ -138,16 +138,16 @@
 }
 
 .text2 {
-  display: inline-block;
-  position: static;
-  top: 20px;
-  left: 30px;
+  /* Absolute Position */
+  position: absolute;
+  top: 32%;
+  left: 10%;
   text-align: center;
   height: 800px;
   width: 800px;
   color: black;
   overflow: auto;
-  font-size: 30px;
+  font-size: 60px;
 }
 
 .graph1 {
@@ -158,9 +158,10 @@
 }
 
 .pic {
-  absolute: static;
+  /* Absolute Position */
+  position: absolute;
   top: 50%;
-  left: 20%;
+  left: 10%;
 }
 
 .graph2 {
