@@ -138,9 +138,9 @@
 }
 
 .text2 {
-  /* Absolute Position */
-  position: absolute;
-  top: 32%;
+  position: static;
+  top: 100px;
+  left: 10px;
   text-align: center;
   height: 800px;
   width: 800px;
