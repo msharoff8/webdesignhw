@@ -138,6 +138,7 @@
 }
 
 .text2 {
+  display: inline-block;
   position: static;
   top: 20px;
   left: 30px;
