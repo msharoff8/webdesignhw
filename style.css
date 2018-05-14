@@ -60,7 +60,7 @@
 
 .whitebox2 {
   display: inline-block;
-  position: fixed;
+  position: static;
   margin: 1%;
   top: 60px;
   right: -40px;
