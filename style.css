@@ -139,8 +139,8 @@
 
 .text2 {
   position: static;
-  top: 20px;
-  left: 10px;
+  top: 30px;
+  left: 30px;
   text-align: center;
   height: 800px;
   width: 800px;
@@ -157,9 +157,9 @@
 }
 
 .pic {
-  /* Absolute Position */
-  position: absolute;
-  top: 50%;
+  position: static;
+  top: 45px;
+  left: 30px;
 }
 
 .graph2 {
